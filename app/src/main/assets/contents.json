@@ -4,7 +4,7 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Pandadog & Friendsy",
+      "name": "Pandadog & Friends",
       "publisher": "Pandadog & Friends",
       "tray_image_file": "pandadog_friends_tray.png",
       "image_data_version": "1",
@@ -56,7 +56,6 @@
           "accessibility_text": "A blue and white cartoon character cries profusely with large tears while a small blue fish floats above its head."
         },
         {
-          // Will change
           "image_file": "pandadog_friends_05.webp",
           "emojis": [
             "😲"
@@ -269,7 +268,21 @@
             "😪"
           ],
           "accessibility_text": "A sleepy lion character with a red mane is lying down, exhausted next to a stack of sparkling clean dishes."
-        },
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Pandadog & Friends",
+      "publisher": "Pandadog & Friends",
+      "tray_image_file": "pandadog_friends_tray2.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
         {
           "image_file": "pandadog_friends_29.webp",
           "emojis": [
@@ -397,7 +410,7 @@
             "😥"
           ],
           "accessibility_text": "A light brown and white pandadog character looks anxious and sweaty with wide, teary eyes, appearing distressed or shocked."
-        },
+        }
       ]
     }
   ]
