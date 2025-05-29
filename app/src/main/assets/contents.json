@@ -20,7 +20,7 @@
             "👋",
             "😃"
           ],
-          "accessibility_text": "A cheerful cartoon pandadog character waves happily with a wide smile and says Hi."
+          "accessibility_text": "Cheerful pandadog waves Hi."
         },
         {
           "image_file": "pandadog_friends_01.webp",
@@ -29,7 +29,7 @@
             "😭",
             "😨"
           ],
-          "accessibility_text": "A distressed cartoon cat-like character with sweat, wide eyes, and watery lines beneath them, clutches its paws together in apparent shock or fear."
+          "accessibility_text": "Distressed cat-like character, shocked or scared."
         },
         {
           "image_file": "pandadog_friends_02.webp",
@@ -37,7 +37,7 @@
             "🥰",
             "😳"
           ],
-          "accessibility_text": "A shy and blushing white rabbit character with a red bow expresses affection with floating red hearts around it."
+          "accessibility_text": "Shy, blushing rabbit with bow, hearts, expresses affection."
         },
         {
           "image_file": "pandadog_friends_03.webp",
@@ -45,7 +45,7 @@
             "🤓",
             "✨"
           ],
-          "accessibility_text": "A smart-looking, light green cartoon character wearing glasses and a leaf on its head winks confidently with sparkles around it."
+          "accessibility_text": "Smart green character with glasses & leaf winks confidently."
         },
         {
           "image_file": "pandadog_friends_04.webp",
@@ -53,7 +53,7 @@
             "😭",
             "😢"
           ],
-          "accessibility_text": "A blue and white cartoon character cries profusely with large tears while a small blue fish floats above its head."
+          "accessibility_text": "Blue & white character cries profusely, fish above head."
         },
         {
           "image_file": "pandadog_friends_05.webp",
@@ -68,7 +68,7 @@
             "🔥",
             "😡"
           ],
-          "accessibility_text": "An enraged blue and white cartoon character, engulfed in flames, glares intensely with a tiny blue fish floating above its head."
+          "accessibility_text": "Enraged blue & white character in flames, fish above."
         },
         {
           "image_file": "pandadog_friends_07.webp",
@@ -76,7 +76,7 @@
             "😂",
             "🤣"
           ],
-          "accessibility_text": "A light brown and white pandadog character is doubled over, laughing uncontrollably with tears streaming from its eyes."
+          "accessibility_text": "Pandadog laughing uncontrollably with tears."
         },
         {
           "image_file": "pandadog_friends_08.webp",
@@ -84,7 +84,7 @@
             "🥱",
             "😴"
           ],
-          "accessibility_text": "A sleepy white rabbit character with a red bow yawns widely and looks tired."
+          "accessibility_text": "Sleepy white rabbit with red bow yawns."
         },
         {
           "image_file": "pandadog_friends_09.webp",
@@ -92,7 +92,7 @@
             "💕",
             "😊"
           ],
-          "accessibility_text": "A grateful light brown and white pandadog character blushes and holds its paws to its cheeks, expressing Thank you ❤️"
+          "accessibility_text": "Grateful pandadog blushes, says Thank you ❤️."
         },
         {
           "image_file": "pandadog_friends_09.webp",
@@ -101,7 +101,7 @@
             "❓",
             "❔"
           ],
-          "accessibility_text": "A confused light green cartoon character with a leaf on its head has question marks floating above it as it ponders."
+          "accessibility_text": "Confused green character with leaf ponders, question marks."
         },
         {
           "image_file": "pandadog_friends_10.webp",
@@ -110,7 +110,7 @@
             "❓",
             "❔"
           ],
-          "accessibility_text": "A confused light green cartoon character with a leaf on its head has question marks floating above it as it ponders."
+          "accessibility_text": "Confused green character with leaf ponders, question marks."
         },
         {
           "image_file": "pandadog_friends_11.webp",
@@ -118,7 +118,7 @@
             "🥺",
             "🙏"
           ],
-          "accessibility_text": "A cute, apologetic lion character with a red mane bows down with clasped paws, saying Sorry in blue text."
+          "accessibility_text": "Apologetic lion with red mane bows, says Sorry."
         },
         {
           "image_file": "pandadog_friends_12.webp",
@@ -127,7 +127,7 @@
             "✨",
             "😄"
           ],
-          "accessibility_text": "A happy pandadog character gives two enthusiastic thumbs up with sparkling eyes."
+          "accessibility_text": "Happy pandadog, two thumbs up, sparkling eyes."
         },
         {
           "image_file": "pandadog_friends_13.webp",
@@ -136,7 +136,7 @@
             "😡",
             "😠"
           ],
-          "accessibility_text": "An angry chibi character with red hair, pursed lips, and steam emanating from its clenched fists, conveys frustration."
+          "accessibility_text": "Angry red-haired chibi, frustrated, steam from fists."
         },
         {
           "image_file": "pandadog_friends_14.webp",
@@ -145,18 +145,16 @@
             "🤷‍♀️",
             "😠"
           ],
-          "accessibility_text": "A sassy gray and white rabbit character with a red bow shrugs with a knowing smirk."
+          "accessibility_text": "Sassy gray & white rabbit with red bow shrugs, smirks."
         },
         {
           "image_file": "pandadog_friends_15.webp",
           "emojis": [
             "🙅‍♀️",
-            "😒",
-            "🙊",
             "🙅",
             "🙅‍♂️"
           ],
-          "accessibility_text": "A light green character with a leaf on its head firmly crosses its arms, expressing No in red text above it."
+          "accessibility_text": "Green character with leaf crosses arms, says No."
         },
         {
           "image_file": "pandadog_friends_16.webp",
@@ -165,7 +163,7 @@
             "🎉",
             "❕"
           ],
-          "accessibility_text": "An enthusiastic white rabbit character with a red bow and pink dress cheers with two yellow pom-poms, exclaiming Go!"
+          "accessibility_text": "Enthusiastic white rabbit with bow cheers Go! with pom-poms."
         },
         {
           "image_file": "pandadog_friends_17.webp",
@@ -174,7 +172,7 @@
             "😫",
             "🫠"
           ],
-          "accessibility_text": "A stressed red-haired chibi character is overwhelmed with work, on the phone, and surrounded by flying papers at a laptop."
+          "accessibility_text": "Stressed red-haired chibi, overwhelmed with work at laptop."
         },
         {
           "image_file": "pandadog_friends_18.webp",
@@ -183,7 +181,7 @@
             "💕",
             "😍"
           ],
-          "accessibility_text": "A cute, blue and white cartoon character with sparkling eyes looks down shyly or apologetically, surrounded by red hearts and a small fish."
+          "accessibility_text": "Cute blue & white character, shy/apologetic, hearts, fish."
         },
         {
           "image_file": "pandadog_friends_19.webp",
@@ -192,7 +190,7 @@
             "🛌",
             "🌙"
           ],
-          "accessibility_text": "A cute white cat-like character is sound asleep under a polka-dotted blue blanket, with a crescent moon and Good night text above it."
+          "accessibility_text": "Cute white cat-like character sleeps, Good night text."
         },
         {
           "image_file": "pandadog_friends_20.webp",
@@ -201,7 +199,7 @@
             "😡",
             "🤬"
           ],
-          "accessibility_text": "An exasperated rabbit character with a red bow yells with fire coming from its mouth, surrounded by flying papers and looking overwhelmed."
+          "accessibility_text": "Exasperated rabbit with red bow yells fire, overwhelmed."
         },
         {
           "image_file": "pandadog_friends_21.webp",
@@ -210,14 +208,14 @@
             "💬",
             "🤬"
           ],
-          "accessibility_text": "An annoyed light green character with a leaf on its head has its arms crossed and an ellipsis speech bubble, indicating unspoken disapproval or thought."
+          "accessibility_text": "Annoyed green character with leaf, arms crossed, ellipsis bubble."
         },
         {
           "image_file": "pandadog_friends_22.webp",
           "emojis": [
             "😏"
           ],
-          "accessibility_text": "A blue and white cartoon character with a small fish above its head looks away with a slight blush and a knowing smirk."
+          "accessibility_text": "Blue & white character, fish above, smirks, blushes."
         },
         {
           "image_file": "pandadog_friends_23.webp",
@@ -226,7 +224,7 @@
             "⏰",
             "☀️"
           ],
-          "accessibility_text": "A groggy lion character with a red mane wakes up in bed, yawning and saying Good morning with an alarm clock nearby."
+          "accessibility_text": "Groggy lion with red mane wakes up, Good morning, clock."
         },
         {
           "image_file": "pandadog_friends_24.webp",
@@ -235,7 +233,7 @@
             "😓",
             "😟"
           ],
-          "accessibility_text": "A light brown and white pandadog character looks flustered and sweaty, with ice packs on its head."
+          "accessibility_text": "Flustered, sweaty pandadog with ice packs on head."
         },
         {
           "image_file": "pandadog_friends_25.webp",
@@ -243,7 +241,7 @@
             "🧱",
             "😓"
           ],
-          "accessibility_text": "A red-haired chibi character is slumped against a wall, appearing sad or hiding its face."
+          "accessibility_text": "Red-haired chibi slumped against wall, sad/hiding face."
         },
         {
           "image_file": "pandadog_friends_26.webp",
@@ -251,7 +249,7 @@
             "😲",
             "🤯"
           ],
-          "accessibility_text": " A surprised pandadog character with a shocked expression with a yellow exclamation mark behind it."
+          "accessibility_text": "Surprised pandadog, shocked, exclamation mark."
         },
         {
           "image_file": "pandadog_friends_27.webp",
@@ -259,7 +257,7 @@
             "😉",
             "✌️"
           ],
-          "accessibility_text": "A playful white rabbit character with a red bow winks and flashes a peace sign."
+          "accessibility_text": "Playful white rabbit with red bow winks, peace sign."
         },
         {
           "image_file": "pandadog_friends_28.webp",
@@ -267,7 +265,7 @@
             "🍽️",
             "😪"
           ],
-          "accessibility_text": "A sleepy lion character with a red mane is lying down, exhausted next to a stack of sparkling clean dishes."
+          "accessibility_text": "Sleepy lion with red mane, exhausted by clean dishes."
         }
       ]
     },
@@ -290,7 +288,7 @@
             "🥶",
             "🤒"
           ],
-          "accessibility_text": "A sick pandadog character with a runny nose and flushed cheeks has a pack of ice cubes on its head, indicating a fever."
+          "accessibility_text": "Sick pandadog, runny nose, flushed, ice pack on head."
         },
         {
           "image_file": "pandadog_friends_30.webp",
@@ -298,17 +296,15 @@
             "😐",
             "💬"
           ],
-          "accessibility_text": "A quiet, gray cat-like character with ruffled fur and rosy cheeks sits with a silent ellipsis speech bubble."
+          "accessibility_text": "Quiet gray cat-like character, ruffled fur, rosy cheeks, ellipsis."
         },
         {
           "image_file": "pandadog_friends_31.webp",
           "emojis": [
             "🚶",
-            "🚶‍♂️",
-            "🚶‍♀️",
             "😀"
           ],
-          "accessibility_text": "A playful light green cartoon character with a leaf on its head walks or runs with its tongue sticking out."
+          "accessibility_text": "Playful green character with leaf walks/runs, tongue out."
         },
         {
           "image_file": "pandadog_friends_32.webp",
@@ -316,17 +312,16 @@
             "😎",
             "✨"
           ],
-          "accessibility_text": "A cool pandadog character winks and wears stylish pink sparkling sunglasses."
+          "accessibility_text": "Cool pandadog winks, pink sparkling sunglasses."
         },
         {
           "image_file": "pandadog_friends_33.webp",
           "emojis": [
-            "🥺",
             "🥹",
             "🙏",
             "✨"
           ],
-          "accessibility_text": "A light green cartoon character with a leaf on its head has tears in its sparkling eyes and clasped paws, looking deeply moved or thankful."
+          "accessibility_text": "Moved/thankful green character with leaf, teary eyes, clasped paws."
         },
         {
           "image_file": "pandadog_friends_34.webp",
@@ -334,7 +329,7 @@
             "😭",
             "😢"
           ],
-          "accessibility_text": "A pandadog character is doubled over in intense emotion, either crying profusely or laughing so hard tears are streaming."
+          "accessibility_text": "Pandadog doubled over, crying/laughing hard with tears."
         },
         {
           "image_file": "pandadog_friends_35.webp",
@@ -343,7 +338,7 @@
             "💢",
             "😡"
           ],
-          "accessibility_text": "A determined gray rabbit character with a red bow clenches its fist, displaying an intense and somewhat frustrated expression."
+          "accessibility_text": "Determined gray rabbit with bow clenches fist, frustrated."
         },
         {
           "image_file": "pandadog_friends_36.webp",
@@ -351,7 +346,7 @@
             "😔",
             "😞"
           ],
-          "accessibility_text": "A light green character with a leaf on its head sits slumped with closed eyes, conveying deep sadness or resignation."
+          "accessibility_text": "Sad/resigned green character with leaf, slumped, closed eyes."
         },
         {
           "image_file": "pandadog_friends_37.webp",
@@ -359,7 +354,7 @@
             "🧱",
             "👀"
           ],
-          "accessibility_text": "A curious lion character with a red mane peeks around a wall with one sparkling eye"
+          "accessibility_text": "Curious lion with red mane peeks around wall, sparkling eye."
         },
         {
           "image_file": "pandadog_friends_38.webp",
@@ -367,14 +362,14 @@
             "😖",
             "😵"
           ],
-          "accessibility_text": "An exasperated or overwhelmed pandadog character holds its head with closed eyes and a distressed expression."
+          "accessibility_text": "Exasperated/overwhelmed pandadog holds head, distressed."
         },
         {
           "image_file": "pandadog_friends_39.webp",
           "emojis": [
             "😔"
           ],
-          "accessibility_text": "A sad or dejected light green character with a leaf on its head sits with downcast eyes and a frown."
+          "accessibility_text": "Sad/dejected green character with leaf, downcast eyes, frown."
         },
         {
           "image_file": "pandadog_friends_40.webp",
@@ -382,7 +377,7 @@
             "🙄",
             "😒"
           ],
-          "accessibility_text": "A seemingly unimpressed or exasperated white rabbit character with a red bow rolls its eyes."
+          "accessibility_text": "Unimpressed/exasperated white rabbit with bow rolls eyes."
         },
         {
           "image_file": "pandadog_friends_41.webp",
@@ -391,7 +386,7 @@
             "😞",
             "😥"
           ],
-          "accessibility_text": "A pale, distressed pandadog character looks unwell with wide, worried eyes and a green trail behind it."
+          "accessibility_text": "Pale, distressed, unwell pandadog, worried eyes, green trail."
         },
         {
           "image_file": "pandadog_friends_42.webp",
@@ -400,7 +395,7 @@
             "😑",
             "🛋️"
           ],
-          "accessibility_text": "A bored or tired red-haired chibi character in a yellow blanket slumps with a hand on its cheek, looking disengaged."
+          "accessibility_text": "Bored/tired red-haired chibi in blanket slumps, disengaged."
         },
         {
           "image_file": "pandadog_friends_43.webp",
@@ -409,7 +404,7 @@
             "💦",
             "😥"
           ],
-          "accessibility_text": "A light brown and white pandadog character looks anxious and sweaty with wide, teary eyes, appearing distressed or shocked."
+          "accessibility_text": "Anxious, sweaty pandadog, teary eyes, distressed/shocked."
         }
       ]
     }
