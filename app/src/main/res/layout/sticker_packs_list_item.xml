@@ -5,6 +5,7 @@
     android:id="@+id/sticker_store_row_container"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:layout_marginTop="12dp"
     android:focusable="true"
     android:foreground="?android:attr/selectableItemBackground"
     android:orientation="vertical"
@@ -19,9 +20,7 @@
         android:id="@+id/add_button_on_list"
         android:layout_width="48dp"
         android:layout_height="48dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginLeft="8dp"
-        android:layout_marginTop="8dp"
+        android:layout_marginTop="12dp"
         android:layout_marginBottom="8dp"
         android:background="?attr/selectableItemBackground"
         android:contentDescription="@string/add_button_content_description"
@@ -29,7 +28,8 @@
         android:src="@drawable/sticker_3rdparty_add"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
 
     <LinearLayout
         android:id="@+id/sticker_pack_info"
@@ -55,11 +55,11 @@
             android:id="@+id/sticker_pack_animation_indicator"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:src="@drawable/animated_pack_indicator"
-            app:tint="@color/animatedStickerIndicator"
             android:layout_marginStart="4dp"
             android:layout_marginLeft="4dp"
-            android:contentDescription="@string/sticker_pack_animation_indicator" />
+            android:contentDescription="@string/sticker_pack_animation_indicator"
+            android:src="@drawable/animated_pack_indicator"
+            app:tint="@color/animatedStickerIndicator" />
 
 
         <TextView
